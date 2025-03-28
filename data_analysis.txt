@@ -1,0 +1,3 @@
+1 - Produto mais vendido de 2024 por categoria / Most sold products of 2024 by category
+2 - Produto mais vendido por país / Most Sold product by country
+3 - Cliente que comprou mais produtos diferentes / The client that bought more different products
